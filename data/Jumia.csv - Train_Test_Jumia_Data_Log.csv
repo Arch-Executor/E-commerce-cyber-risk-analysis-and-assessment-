@@ -1,0 +1,8 @@
+Year,Risk Type,Control Weakness,Impact,Likelihood,Fraud Occured
+2017,Insider Fraud,High,High,High,1
+2018,Insider Fraud,High,High,High,1
+2019,Insider Fraud,High,High,High,1
+2020,Control Failure,High,High,Medium,1
+2021,Data Breach,High,High,High,1
+2022,Cyber Threat,Medium,High,Medium,0
+2023,Systemic Risk,Medium,High,Medium,0
